@@ -21,5 +21,5 @@ artifacts:
   files:
     - 'dist/my-angular-project/**/*'
     - appspec.yml
-    - 'deploy-scrips/**/*'
+    - 'deploy-scripts/**/*'
     - '**/*'
